@@ -1,4 +1,2 @@
-test123
-test
 liten endring her
 developbranch
