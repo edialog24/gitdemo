@@ -1,4 +1,5 @@
 Bjørnars tekst midt inni
+også mer
 liten endring her
 developbranch
 Ny siste linje
