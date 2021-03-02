@@ -1,5 +1,3 @@
-test123
-test
-BjÃ¸rnars tekst midt inni
+Bjørnars tekst midt inni
 liten endring her
 developbranch
