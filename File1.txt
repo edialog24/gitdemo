@@ -1,4 +1,5 @@
 test123
 test
+Bjørnars tekst midt inni
 liten endring her
 developbranch
